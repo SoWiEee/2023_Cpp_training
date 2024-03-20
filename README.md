@@ -1,5 +1,9 @@
 # 2023_C++_training
 
+::: info
+Files of practices are placed in folder `Hw` !
+:::
+
 ## 📝Introduction
 This repo is for c++ programming practices, there are some questions from the following books:
 
